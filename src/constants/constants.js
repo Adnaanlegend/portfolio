@@ -36,8 +36,8 @@ export const projects = [
       "Built with React for dynamic interactivity, TailwindCSS  sleek styling, and enhanced with Apex Charts and Framer Motion for data visualization and animations.",
     image: "/images/Dash.png",
     tags: ["React", "TailwindCSS", "Apex Charts", "Framer Motion"],
-    source: "https://github.com/Adnaanlegend/Basket",
-    visit: "https://takeabasket.netlify.app/",
+    source: "https://takeabasket.netlify.app/",
+    visit: "https://github.com/Adnaanlegend/Basket",
     id: 3,
   },
   {
@@ -46,8 +46,8 @@ export const projects = [
       "It was my first Next.JS Project and I tried to make it with cloudinary and Shadcn-ui, There are a lot of features.Give it a go.",
     image: "/images/gai.png",
     tags: ["Next.JS", "Cloudinary", "ShadcnUI"],
-    source: "https://github.com/Adnaanlegend/galleryapp",
-    visit: "https://galleryappai.vercel.app/gallery",
+    source: "https://galleryappai.vercel.app/gallery",
+    visit: "https://github.com/Adnaanlegend/galleryapp",
     id: 3,
   },
   {
